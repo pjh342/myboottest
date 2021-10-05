@@ -8,7 +8,7 @@ public class GituploadApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GituploadApplication.class, args);
-		System.out.println("git hub 수정2");
+		System.out.println("git hub 수정3");
 	}
 
 }
